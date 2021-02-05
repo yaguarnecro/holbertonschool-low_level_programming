@@ -3,7 +3,7 @@
 /**
  * main - puts line to stdout
  * Description: uses puts to output fixed message
- * Return: void
+ * Return: 0
  */
 
 int main(void)
